@@ -1,0 +1,21 @@
+message,label
+Your credit card transaction of $500 was successful.,not spam
+Alert! A transaction of $1000 detected. Was it you?,not spam
+You have won a lottery! Claim your prize now.,spam
+Limited offer! Click here to win a free gift card.,spam
+Your account has been debited with $200 for shopping at Amazon.,not spam
+Congratulations! You are selected for a free vacation. Click here.,spam
+"Dear customer, we detected an unusual activity on your card.",not spam
+Urgent! Verify your card details immediately.,spam
+A payment of $350 was made to Netflix from your account.,not spam
+Earn money fast! Just sign up and get $1000 now.,spam
+Your OTP for transaction is 123456. Do not share with anyone.,not spam
+Suspicious login detected on your bank account. Change password now.,spam
+Get a free iPhone by clicking this special link now!,spam
+Your card has been charged $750 at Walmart. Confirm if this was you.,not spam
+Congratulations! You've been randomly selected for a cash prize.,spam
+"Payment of $99.99 made to Apple. If unauthorized, report immediately.",not spam
+"Limited-time sale! Buy one, get one free. Click here.",spam
+Your bank account requires verification. Enter details now.,spam
+Your Netflix subscription has been renewed for $15.99.,not spam
+You have won a free gift card worth $500. Click to claim.,spam
